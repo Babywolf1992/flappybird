@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/bird.js">
+    <Files>
+      <File FileName="Assets/scripts/gamemenu.js" Line="1" Column="15" />
+      <File FileName="Assets/scripts/GameManager.js" Line="1" Column="15" />
+      <File FileName="Assets/scripts/moveTrigger.js" Line="2" Column="1" />
+      <File FileName="Assets/scripts/pipeUpOrDown.js" Line="1" Column="15" />
+      <File FileName="Assets/scripts/pipe.js" Line="2" Column="1" />
+      <File FileName="Assets/scripts/bird.js" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
